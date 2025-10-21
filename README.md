@@ -50,22 +50,24 @@ Score: 9/10
 
 Prompt 1:
 “Compare and contrast AC and DC current in a table.”
-
-Aspect	AC (Alternating Current)	DC (Direct Current)
-Direction of flow	Changes periodically	Flows in one direction
-Source	Power stations, generators	Batteries, solar cells
-Transmission	Suitable for long-distance	Short-distance use
-Example	Household power supply	Mobile chargers
+| Aspect            | AC (Alternating Current)   | DC (Direct Current)    |
+| ----------------- | -------------------------- | ---------------------- |
+| Direction of flow | Changes periodically       | Flows in one direction |
+| Source            | Power stations, generators | Batteries, solar cells |
+| Transmission      | Suitable for long-distance | Short-distance use     |
+| Example           | Household power supply     | Mobile chargers        |
 
 Prompt 2:
 “Provide a table listing five programming languages, their paradigms, and one use case each.”
 
-Programming Language	Paradigm	Use Case
-Python	Object-Oriented	Machine Learning
-Java	Object-Oriented	Android Apps
-C	Procedural	System Programming
-JavaScript	Event-Driven	Web Development
-SQL	Declarative	Database Management
+| Programming Language | Paradigm        | Use Case            |
+| -------------------- | --------------- | ------------------- |
+| Python               | Object-Oriented | Machine Learning    |
+| Java                 | Object-Oriented | Android Apps        |
+| C                    | Procedural      | System Programming  |
+| JavaScript           | Event-Driven    | Web Development     |
+| SQL                  | Declarative     | Database Management |
+
 
 Evaluation:
 ✅ Clear visual comparison.
@@ -112,11 +114,13 @@ Score: 8/10
 
 Method: Qualitative Evaluation — Clarity, Completeness, and Accuracy.
 
-Prompt Type	Clarity	Completeness	Accuracy	Average Score
-Straightforward	9	8	9	8.7
-Tabular Format	10	10	10	10.0
-Preceding Question	9	8	8.5	8.5
-Missing Word	8	7	9	8.0
+| Prompt Type        | Clarity | Completeness | Accuracy | Average Score |
+| ------------------ | ------- | ------------ | -------- | ------------- |
+| Straightforward    | 9       | 8            | 9        | **8.7**       |
+| Tabular Format     | 10      | 10           | 10       | **10.0**      |
+| Preceding Question | 9       | 8            | 8.5      | **8.5**       |
+| Missing Word       | 8       | 7            | 9        | **8.0**       |
+
 
 ### Conclusion 
 Among the four prompt types, Tabular Format Prompting achieved the highest score (10/10). It provides structured, easy-to-read comparisons, making it ideal for technical or data-driven topics.
